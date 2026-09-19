@@ -1,6 +1,8 @@
 # AIR_STRING pcb
 pcb for air string from chuni arcade
 
+fork: just cleaned up the pcb
+
 ## Information
 this pcb is designed based on CrazyRedMachine's chunithmIO
 
